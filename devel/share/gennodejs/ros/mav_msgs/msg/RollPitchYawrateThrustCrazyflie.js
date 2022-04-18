@@ -1,0 +1,1 @@
+/home/awmuralt/RBE502Final_G37/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/RollPitchYawrateThrustCrazyflie.js

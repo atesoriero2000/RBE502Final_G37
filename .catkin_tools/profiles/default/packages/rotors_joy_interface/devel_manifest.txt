@@ -1,0 +1,7 @@
+CrazyS/rotors_joy_interface
+/home/awmuralt/RBE502Final_G37/devel/.private/rotors_joy_interface/cmake.lock /home/awmuralt/RBE502Final_G37/devel/./cmake.lock
+/home/awmuralt/RBE502Final_G37/devel/.private/rotors_joy_interface/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig-version.cmake /home/awmuralt/RBE502Final_G37/devel/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig-version.cmake
+/home/awmuralt/RBE502Final_G37/devel/.private/rotors_joy_interface/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig.cmake /home/awmuralt/RBE502Final_G37/devel/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig.cmake
+/home/awmuralt/RBE502Final_G37/devel/.private/rotors_joy_interface/lib/pkgconfig/rotors_joy_interface.pc /home/awmuralt/RBE502Final_G37/devel/lib/pkgconfig/rotors_joy_interface.pc
+/home/awmuralt/RBE502Final_G37/devel/.private/rotors_joy_interface/lib/rotors_joy_interface/rotors_joy_interface_crazyflie /home/awmuralt/RBE502Final_G37/devel/lib/rotors_joy_interface/rotors_joy_interface_crazyflie
+/home/awmuralt/RBE502Final_G37/devel/.private/rotors_joy_interface/lib/rotors_joy_interface/rotors_joy_interface /home/awmuralt/RBE502Final_G37/devel/lib/rotors_joy_interface/rotors_joy_interface

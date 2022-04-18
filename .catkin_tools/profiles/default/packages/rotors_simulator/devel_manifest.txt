@@ -1,0 +1,2 @@
+CrazyS/rotors_simulator
+/home/awmuralt/RBE502Final_G37/devel/.private/rotors_simulator/cmake.lock /home/awmuralt/RBE502Final_G37/devel/./cmake.lock
