@@ -1,2 +1,0 @@
-# RBE502Final_G37
-WPI 21-22, RBE 502 S22  
